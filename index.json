@@ -1,0 +1,11 @@
+{
+  "org": "executablebooks",
+  "repo": "sphinx-exercise",
+  "versions": [
+    {
+      "commit": "9804d685b8e6036869845683bb5d22ab5f3b78c2",
+      "tag": "",
+      "parsed_at": "2026-10-12T20:06:01.760006+00:00"
+    }
+  ]
+}
